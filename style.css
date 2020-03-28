@@ -3,4 +3,8 @@ body {
 	margin: 0;
 }
 
-/* #mapid { height: 360px; } */
+#map {
+	width: 67rem;
+	height: 52rem;
+	border: 1px solid #ccc;
+}
