@@ -8,3 +8,22 @@ body {
 	height: 52rem;
 	border: 1px solid #ccc;
 }
+
+.place {
+	margin-left: -20px !important;
+	margin-top: -20px !important;
+}
+
+img.place-image {
+	width: 40px;
+}
+
+.place-number {
+	color: #000;
+    font-size: 19px;
+    font-weight: bold;
+    position: absolute;
+    top: 8px;
+    left: 20px;
+	transform: translateX(-50%);
+}

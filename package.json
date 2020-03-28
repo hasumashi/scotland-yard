@@ -11,8 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "leaflet": "^1.6.0",
-    "leaflet-draw": "^1.0.4",
-    "leaflet-streetlabels": "^1.0.1"
+    "leaflet-draw": "^1.0.4"
   },
   "devDependencies": {
     "parcel": "^1.12.4"
