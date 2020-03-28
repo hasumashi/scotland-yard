@@ -1,0 +1,17 @@
+{
+  "name": "scotland-yard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Ciążyński",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.6.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
